@@ -1,0 +1,6 @@
+.vscode/*
+
+__pycache__/*
+app/__pycache__/*
+
+whatsapp-bot-2-venv/*
